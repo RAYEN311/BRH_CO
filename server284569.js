@@ -1,4 +1,3 @@
-// requiring the framework express
 const express = require('express')
 const port = process.env.PORT || 4040
 const app = express()
